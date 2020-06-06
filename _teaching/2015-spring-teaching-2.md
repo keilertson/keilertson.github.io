@@ -1,5 +1,5 @@
 ---
-title: "Problem Solving and Commiunication in Applied Statistics"
+title: "Problem Solving and Communication in Applied Statistics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
