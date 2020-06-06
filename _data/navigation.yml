@@ -1,11 +1,7 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Research & Collaborations"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/    
-
-  - title: "Collaboration"
-    url: /collaboration/    
-    
