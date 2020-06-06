@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Penn State, Statistics"
-date: 2013 - 2019
+date: "2013 - 2019"
 location: "State College, PA"
 ---
 
