@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Problem Solving and Commiunication in Applied Statistics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Penn State, Statistics"
+date: 2014 - 2019
+location: "State College, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A capstone course for Statistics Majors. 
