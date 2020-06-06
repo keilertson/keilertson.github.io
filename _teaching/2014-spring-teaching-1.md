@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Consulting Practicum Courses"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Penn State, Statistics"
+date: 2013 - 2019
+location: "State College, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+A two-course sequence designed to provide collaboration and consulting experience to graduate students in the Statistics MAS and PhD programs.  
