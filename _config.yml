@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Kirsten E Eilertson, PhD"
-  avatar           : "images/headshot.png"
-  bio              : "Assistant Professor"
+  avatar           : "headshot.png"
+  bio              : "Assistant Professor at Colorado State University"
   location         : "Fort Collins, CO"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
