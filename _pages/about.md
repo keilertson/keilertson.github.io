@@ -10,7 +10,7 @@ redirect_from:
 
 I am a faculty member in the Statistics department at Colorado State, where a I split my time between teaching, research and consulting work for the [Graybill Statistics and Data Science Laboratory](https://statlab.colostate.edu/).
 
-I graduated with a B.A. in Mathematics from St. Olaf College, and did my Ph.D. work in Statistics at Cornell University with Carlos Bustamante and Jim Booth.  In graduate school my work focused on estimation and inference for mixed models and latent variable models with applications in population genetics and functional genomics. 
+I graduated with a B.A. in Mathematics from St. Olaf College, and did my Ph.D. work in Statistics at Cornell University with Carlos Bustamante and Jim Booth.  During graduate school my work focused on estimation and inference for mixed models and latent variable models with applications in population genetics and functional genomics. 
 
 I worked as a Biostatistician at [The Gladstone Institutes](https://gladstone.org/) from 2011-2013, collaborating with researchers in the areas of Neuroscience, Immunology and Virology, and Cardiology.  
 
