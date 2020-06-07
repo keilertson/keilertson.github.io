@@ -20,7 +20,7 @@ Online and face to face instruction.
 ## Quantitative Methods in Public Health, 2019-2020 (PBHL 560).
 #### Colorado State University
 
-An introductory biostatics course for graduate students in the school of public health. 
+An introductory biostatistics course for graduate students in the school of public health. 
 
 ## Problem Solving and Communication in Applied Statistics, 2014-2019 (Stat 470).
 #### Penn State
@@ -37,6 +37,6 @@ Online and face to face sections taught.
 ## Applied Statistics, 2013-2014 (Stat 500).
 #### Penn State
 
-Introductory statistic course for graduate students in other disciplines.   
+An introductory statistics course for graduate students in other disciplines.   
 Online and face to face sections taught. 
 
