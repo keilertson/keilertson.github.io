@@ -4,8 +4,9 @@ title: "MAS - Statistical Science Program"
 excerpt: "A flow chart"
 author_profile: true
 redirect_from: 
-  - "/course_scheudule_SS/"
-  - "/course_scheudule_SS.html"
+  - "/course_schedule_SS/"
+  - "/course_schedule_SS"
+  - "/course_schedule_SS.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
