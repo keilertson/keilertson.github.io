@@ -1,5 +1,5 @@
 ---
-permalink: /course_scheudule_SS/
+permalink: /course_schedule_SS/
 title: "MAS - Statistical Science Program"
 excerpt: "A flow chart"
 author_profile: true
