@@ -16,6 +16,10 @@ Online instruction only (due to COVID-19).
 Statistical methods for experimenters and researchers emphasizing design and analysis of experiments.   
 Online and face to face instruction.
 
+## Applied Biostatistics II (BIOS 6602).
+#### Colorado State University & UC Denver
+
+An second course in biostatistics for graduate students in the school of public health. 
 
 ## Quantitative Methods in Public Health, 2019-2020 (PBHL 560).
 #### Colorado State University
