@@ -4,11 +4,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##  Mixed Models,  2020 (STAA 554).
+
+##  Generalized Linear Models for Researchers,  2024 (STAR 531).
 #### Colorado State University
 
-Topics in linear and generalized linear mixed models for students in the masters in applied statistics program.  
-Online instruction only (due to COVID-19).
+Topics in generalized linear models for graduate students in other disciplines.  
+Online and face to face instruction.
+
+##  Generalized Linear Models,  2024 (STAA 552).
+#### Colorado State University
+
+Topics in generalized linear models for students in the Master's in Applied Statistics program.  
+Online and face to face instruction.
+
+##  Mixed Models,  2020 - 2025 (STAA 554).
+#### Colorado State University
+
+Topics in linear and generalized linear mixed models for students in the Master's in Applied Statistics program.  
+Online and face to face instruction.
 
 ##  Design and Data Analysis for Researchers II,  2019 (STAT 512).
 #### Colorado State University
@@ -16,12 +29,12 @@ Online instruction only (due to COVID-19).
 Statistical methods for experimenters and researchers emphasizing design and analysis of experiments.   
 Online and face to face instruction.
 
-## Applied Biostatistics II (BIOS 6602).
+## Applied Biostatistics II (BIOS 6602) and Quantitative Methods in Public Health II (PBHL 660).
 #### Colorado State University & UC Denver
 
 An second course in biostatistics for graduate students in the school of public health. 
 
-## Quantitative Methods in Public Health, 2019-2020 (PBHL 560).
+## Quantitative Methods in Public Health I, 2019-2024 (PBHL 560).
 #### Colorado State University
 
 An introductory biostatistics course for graduate students in the school of public health. 
