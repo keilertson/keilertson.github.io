@@ -5,19 +5,24 @@ author_profile: true
 ---
 
 
-##  Generalized Linear Models for Researchers,  2024 (STAR 531).
+##  Linear Models with Applications,  2025-2026 (STAA 551).
+#### Colorado State University
+
+Topics in general linear models for graduate students including estimation, testing, model selection, and interpretation. Models explored include categorical and continuous predictors, interactions, polynomial and spline terms. Online instruction.
+
+##  Generalized Linear Models for Researchers,  2024 - 2026 (STAR 531).
 #### Colorado State University
 
 Topics in generalized linear models for graduate students in other disciplines.  
 Online and face to face instruction.
 
-##  Generalized Linear Models,  2024 (STAA 552).
+##  Generalized Linear Models,  2024 - 2026 (STAA 552).
 #### Colorado State University
 
 Topics in generalized linear models for students in the Master's in Applied Statistics program.  
 Online and face to face instruction.
 
-##  Mixed Models,  2020 - 2025 (STAA 554).
+##  Mixed Models,  2020 - 2026 (STAA 554).
 #### Colorado State University
 
 Topics in linear and generalized linear mixed models for students in the Master's in Applied Statistics program.  
